@@ -1,0 +1,20 @@
+2023-05-22 23:07:47 Opened https://www.hostinger.com/
+2023-05-22 23:07:48 Accepted cookies
+2023-05-22 23:07:52 Added business plan to the cart
+2023-05-22 23:07:54 24 months period was chosen
+2023-05-22 23:07:56 Entered email address: randomemail8982739@mail.com
+2023-05-22 23:07:58 Selected card payment
+2023-05-22 23:08:16 Opened https://www.hostinger.com/
+2023-05-22 23:08:17 Accepted cookies
+2023-05-22 23:08:21 Added business plan to the cart
+2023-05-22 23:08:22 24 months period was chosen
+2023-05-22 23:08:24 Entered email address: randomemail5081090@mail.com
+2023-05-22 23:08:24 Selected card payment
+2023-05-22 23:08:26 Typed card name: QkotdhfYnD
+2023-05-22 23:08:27 Entered company name: zUuWrhDnDp
+2023-05-22 23:08:28 Entered company vat: LT100007381511
+2023-05-22 23:08:28 Entered company address: LavVSESPrzvkfEO
+2023-05-22 23:08:29 Submited payment
+2023-05-22 23:08:37 Card number error appeared
+2023-05-22 23:08:37 Validity error appeared
+2023-05-22 23:08:37 CVC error appeared
